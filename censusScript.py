@@ -54,7 +54,7 @@ soup = BeautifulSoup(page.content,'html.parser')
 
 numeroDePaginas = int(soup.find('li',class_="btn__pager__current").text[-1])
 nommbreFC = soup.find('p',class_='entry__freecompany__name').text
-print("evaluando la FC: " + nommbreFC)
+print("Checking out the FC: " + nommbreFC)
 
   
 for pagina in range(1,numeroDePaginas+1):
