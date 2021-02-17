@@ -6,6 +6,8 @@ Have python 3.X installed with PATH added
 
 Instalar python 3.X con PATH añadido
 
+![](https://datatofish.com/wp-content/uploads/2019/03/000_pyinstaller.png)
+
 # Instrucciones / Tutorial:
 
 [video tutorial en español/ video tutorial in spanish](https://www.youtube.com/watch?v=xXKs48p1b_k)
