@@ -196,7 +196,7 @@ for uid in miembros:
     vieraVeen+=1
   
 print("\n-------------------------------------------------------------------------------\n\nThere are {} members in {}\n".format(len(miembros),nommbreFC) +
-      ", {} play a female PJ and {} play with a male PJ\n".format(f,m) +
+      "{} play a female PJ and {} play with a male PJ\n".format(f,m) +
       "{} are Hyur, {} are female and {} are male \n{} Midland and {} Highland\n".format(hyurHigh+hyurMid,hyurF,hyurM,hyurMid,hyurHigh) +
       "{} are Miqo\'te, {} are female and {} are male \n{} Seekers of the sun and {} Keepers of the moon\n".format(catMoon+catSun,catF,catM,catSun,catMoon) +
       "{} are Elezen, {} are female and {} are male \n{} Wildwood and {} Duskwight\n".format(eleDusk+eleWild,eleM,eleF,eleWild,eleDusk) +
