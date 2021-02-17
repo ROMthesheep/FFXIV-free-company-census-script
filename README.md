@@ -3,6 +3,8 @@ Upon providing the id of the FC lodestone page the software will return a list o
 
 # Instrucciones / Tutorial:
 
+[video tutorial en español/ video tutorial in spanish](https://www.youtube.com/watch?v=xXKs48p1b_k)
+
 [Download](https://github.com/ROMthesheep/FFXIV-free-company-census-script/archive/V1.1.zip) the lateless release of the software, unzip the folder you will se the following:
 
 [Descarga](https://github.com/ROMthesheep/FFXIV-free-company-census-script/archive/V1.1.zip) la ultima version del software, descomprime el archivo y veras lo siguiente:
