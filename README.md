@@ -1,6 +1,11 @@
 # FFXIV-free-company-census-script
 Upon providing the id of the FC lodestone page the software will return a list of all the races present in the game and how many of each one are in the selected FC
 
+# Requisitos / Requirements:
+Have python 3.X installed with PATH added
+
+Instalar python 3.X con PATH añadido
+
 # Instrucciones / Tutorial:
 
 [video tutorial en español/ video tutorial in spanish](https://www.youtube.com/watch?v=xXKs48p1b_k)
